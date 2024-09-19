@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashith00" alt="hashith00" /></a> </p>
 
-- 🔭 I’m currently working on [Vojo](https://github.com/Hashith00/Vojo_user)
+- 🔭 I’m currently working in CodeGen International as an Software Engineer Intern
 
 - 🌱 I’m currently learning **AWS cloud, Jenkins, Terraform**
 
